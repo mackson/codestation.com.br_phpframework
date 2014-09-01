@@ -1,0 +1,24 @@
+/*!
+ * Uau! Web Starter Kit v1.0.1 (http://starterkit.uaustudios.com)
+ * Copyright 2014 Mackson Richall Freitas Araujo.
+ * Licensed under MIT
+ */
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{font-family: 'Open Sans', sans-serif;}
+
+.box1{background-color: #f1f1f1; padding: 1em; border: 1px solid #ddd; margin:2px;}
+.box2{background-color: #f9f9f9; padding: 1em; border: 1px solid #ddd; margin:2px;}
+
+.FormBox{
+ 	margin:5px;
+}
+
+.line > section {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
